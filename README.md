@@ -1,8 +1,6 @@
 # Multi-Threaded HTTP Server
 ## Principles of Computer Systems Design
 
-**CSE 130: Advanced Programming Concepts**
-
 ### Overview
 This project implements a multi-threaded HTTP server designed to handle multiple client requests simultaneously through effective use of concurrency. Combining robust synchronization mechanisms with a dynamic threading model, the server ensures efficient hardware utilization while maintaining a coherent and atomic response behavior as expected from a single-threaded server.
 
